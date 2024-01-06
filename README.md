@@ -17,10 +17,11 @@ Game Rules:
 ![Screenshot 2024-01-06 160514](https://github.com/Rushikesh-264/AI-Tic_Tac_Toe/assets/150276077/1fba2070-ce8c-4aec-9ae2-128f96833a25)
 
 
-Game Over
-    The game will announce the winner if there is one, or declare a tie if the board is full. You can then choose to play again or exit the game.
-    Customization
 
+The game will announce the winner if there is one, or declare a tie if the board is full. You can then choose to play again or exit the game.
+
+Customization
+--------------
 Feel free to explore and modify the code to enhance the game. You can adjust the difficulty level of the computer opponent, add features, or improve the user interface.
 
 HAVE FUN PLAYING TIC-TAC-TOE!!
