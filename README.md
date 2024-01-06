@@ -12,11 +12,11 @@ Game Rules:
 Welcome to Tic-Tac-Toe!
 
 Current Board:
-  0 | 1 | 2
-  ---------
-  3 | 4 | 5
-  ---------
-  6 | 7 | 8
+      0 | 1 | 2
+      ---------
+      3 | 4 | 5
+      ---------
+      6 | 7 | 8
 
 Game Over
     The game will announce the winner if there is one, or declare a tie if the board is full. You can then choose to play again or exit the game.
